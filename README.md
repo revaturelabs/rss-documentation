@@ -19,7 +19,7 @@ The directory would look something like this:
 ```
 > **Note:** Please DO NOT touch the `.nojekyll`, `index.html`, or `README.md` file in the root folder!
 
-After that, you can link them in the `_sidebar.md` file with this format:
+After that, you can link your newly added documentation files in the `_sidebar.md` file with this format:
 ```
 * Folder Name
   * [filename](filename.md)
