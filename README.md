@@ -25,7 +25,7 @@ After that, you can link your newly added documentation files in the `_sidebar.m
   * [filename](filename.md)
 ``` 
 
-To locally serve the documentation site on `http://localhost:3000`, use this command:
+To locally serve the documentation site on `http://localhost:3000`, use this command in your terminal:
 ```
 docsify serve
 ```
