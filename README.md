@@ -1,5 +1,7 @@
 # Revature Swag Shop Documentation
 
+**Note:** YOU DO NOT HAVE TO DO THE BELOW. THIS IS JUST A STRETCH GOAL FOR SERVING A DOCUMENTATION SITE TO THE PUBLIC.
+
 This will serve as a documentation for the entire codebase for Revature Swag Shop. Powered by [Docsify](https://docsify.js.org/).
 
 Add files for each microservice and document each function (login, signup, inventory, quizzes, etc). Each file should be a Markdown file. If you have never used Markdown before, this is a good start: https://guides.github.com/features/mastering-markdown/
