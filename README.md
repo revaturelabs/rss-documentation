@@ -2,7 +2,7 @@
 
 This will serve as a documentation for the entire codebase for Revature Swag Shop. Powered by [Docsify](https://docsify.js.org/).
 
-Add folders for each microservice and make separate files for each function (login + signup + add inventory for account, questions + answers for quizzes, etc). Each file should be a Markdown file. If you have never used Markdown before, this is a good start: https://guides.github.com/features/mastering-markdown/
+Add files for each microservice and document each function (login, signup, inventory, quizzes, etc). Each file should be a Markdown file. If you have never used Markdown before, this is a good start: https://guides.github.com/features/mastering-markdown/
 
 The directory would look something like this:
 ```
@@ -12,8 +12,8 @@ The directory would look something like this:
 ├── index.html
 ├── README.md
 ├── .git
-|    ├── ...
-└── FOLDERNAME
+|   ├── ...
+└── MICROSERVICENAME
     ├── FILENAME.md
     ├── MOREFILES.md
 ```
@@ -21,7 +21,7 @@ The directory would look something like this:
 
 After that, you can link your newly added documentation files in the `_sidebar.md` file with this format:
 ```
-* Folder Name
+* Microservice
   * [filename](filename.md)
 ``` 
 
